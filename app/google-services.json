@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938536644768",
+    "project_id": "espressobug-e50da",
+    "storage_bucket": "espressobug-e50da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938536644768:android:87eb75dbed8e0a163a59c5",
+        "android_client_info": {
+          "package_name": "cz.aldor.espresso34"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938536644768-dih2uspusp7i4lf14neblelpbk78ssmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJlsgxdBuMbAiClXBpyxPaR5rIxQWjXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938536644768-dih2uspusp7i4lf14neblelpbk78ssmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
